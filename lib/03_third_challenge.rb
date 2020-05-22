@@ -14,7 +14,7 @@ epic_tragedy = {
       status: "alive"
       },
       :hero_friends => []
-   },
+      },
    :capulet => {
       :patriarch => {
       name: "Lord Capulet", 
