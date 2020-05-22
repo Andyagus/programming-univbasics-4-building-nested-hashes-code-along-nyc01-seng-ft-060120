@@ -12,7 +12,6 @@ epic_tragedy = {
       name: "Romeo", 
       age: "15", 
       status: "alive"},
-      
       :hero_friends => []
    },
    :capulet => {
